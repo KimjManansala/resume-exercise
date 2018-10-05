@@ -1,0 +1,29 @@
+
+body{
+    background-color: rgba(48, 44, 44, 0.098);
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+hr{
+    color:grey
+}
+h1, h2, h3 div{
+    text-align: left;
+    color: black;
+    font-size: 30px;
+
+}
+ul{
+    list-style:none;
+}
+
+.name{
+    text-align: center;
+    font-size: 50px;
+    background-color: grey;
+    background-size: 0%;
+    padding: 0px 0px;
+    object-fit: none;
+}
